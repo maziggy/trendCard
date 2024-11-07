@@ -1,5 +1,5 @@
 {
-  "name": "Trend Card",
+  "name": "Custom Lovelace card to display trending for sensors.",
   "content_in_root": false,
   "render_readme": true,
   "domains": ["lovelace"],
