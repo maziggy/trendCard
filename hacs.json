@@ -1,5 +1,5 @@
 {
-  "name": "Custom Lovelace card to display trending for sensors.",
+  "name":  "Trend Chart",
   "content_in_root": false,
   "render_readme": true,
   "domains": ["lovelace"],
@@ -10,5 +10,5 @@
   "issues": "https://github.com/maziggy/trendCard/issues",
   "dependencies": [],
   "codeowners": ["@maziggy"],
-  "filename": "trend-chart.min.js"
+  "filename": "dist/trend-card.min.js"
 }
