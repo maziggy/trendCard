@@ -5,7 +5,8 @@ A custom Lovelace card for displaying calculated metrics trends.
 First try writing a custom card. I know it's not perfect. Any contributions, recommendations and comments are welcome!
 
 ## Screnshot 
-![alt text]([https://github.com/d6151bb1-c51d-4687-bad7-69d9c2a17813](https://raw.githubusercontent.com/maziggy/trendCard/refs/heads/main/screenshots/screenshot.png))
+
+![Screnshot](https://raw.githubusercontent.com/maziggy/trendCard/refs/heads/main/screenshots/screenshot.png)
 
 ## Installation
 
