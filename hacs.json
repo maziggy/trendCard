@@ -1,6 +1,6 @@
 {
   "name":  "Trend Chart",
-  "content_in_root": false,
+  "content_in_root": true,
   "render_readme": true,
   "domains": ["lovelace"],
   "country": "DE",
@@ -10,5 +10,5 @@
   "issues": "https://github.com/maziggy/trendCard/issues",
   "dependencies": [],
   "codeowners": ["@maziggy"],
-  "filename": "dist/trend-card.min.js"
+  "filename": "trend-card.min.js"
 }
