@@ -1,5 +1,6 @@
 {
   "name":  "Trend Chart",
+  "description": "A custom Lovelace card for Home Assistant that displays trending data for sensors.",
   "content_in_root": true,
   "render_readme": true,
   "domains": ["lovelace"],
