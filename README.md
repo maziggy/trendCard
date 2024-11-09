@@ -41,6 +41,7 @@ theme:
   bgColor: "#2c2c2e"
   textColor: "#ffffff"
   iconColor: "#ff9e32"
+  iconBgColor: "#323335"
   metricBgColor: "#323335"
   bubble1Color: "#1b7de5"
   bubble1TextColor: "#ffffff"
