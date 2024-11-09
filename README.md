@@ -38,6 +38,7 @@ metric3_delta: sensor.water_last
 metric3_name: WAT
 refresh: 60
 
+## PLEASE NOTE
 I have a Python script that feeds the required sensors. Unfortunately this is not yet ready for publishing. I'll work on this the next time.
 
 As long as i didn't published the data calculation script, PLEASE NOTE:
