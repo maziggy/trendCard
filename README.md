@@ -1,16 +1,16 @@
-# Trend Card
+* Trend Card
 
 A custom Lovelace card for displaying calculated metrics trends.
 
 First try writing a custom card. I know it's not perfect. Any contributions, recommendations and comments are welcome!
 
-## Screnshot 
+** Screenshot 
 
 ![Screnshot](https://raw.githubusercontent.com/maziggy/trendCard/refs/heads/main/screenshots/screenshot.png)
 
-## Installation
+** Installation
 
-### Via HACS
+*** Via HACS
 
 1. Ensure you have [HACS](https://hacs.xyz/) installed.
 2. In Home Assistant, go to **HACS** > **Frontend**.
@@ -23,7 +23,7 @@ or simply
 
 [![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=%40maziggy&repository=https%3A%2F%2Fgithub.com%2Fmaziggy%2FtrendCard%2F&category=Dashboard)
 
-## Configuration
+** Configuration
 
 ```yaml
 type: custom:trend-card
