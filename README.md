@@ -37,10 +37,26 @@ metric2_name: Hum
 metric3_delta: sensor.water_last
 metric3_name: WAT
 refresh: 60
+theme:
+  bgColor: "#2c2c2e"
+  textColor: "#ffffff"
+  iconColor: "#ff9e32"
+  metricBgColor: "#323335"
+  bubble1Color: "#1b7de5"
+  bubble1TextColor: "#ffffff"
+  value1TextColor: "#ffffff"
+  bubble2Color: "#e7970d"
+  bubble2TextColor: "#ffffff"
+  value2TextColor: "#ffffff"
+  bubble3Color: "#ab07ae"
+  bubble3TextColor: "#ffffff"
+  value3TextColor: "#ffffff"
+  trendDownColor: "#498bff"
+  trendEqualColor: "#4ff24b"
+  trendUpColor: "#ff4c4c"
 
 I have a Python script that feeds the required sensors. Unfortunately this is not yet ready for publishing. I'll work on this the next time.
 
 As long as i didn't published the data calculation script, PLEASE NOTE:
 
 input_text._trend_interval_remaining must be a input_text.sensor with state "<current_counter/steps>" - for example "2/6". Of course without the quotation marks ;)
-
